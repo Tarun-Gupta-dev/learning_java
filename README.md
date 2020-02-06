@@ -1,2 +1,0 @@
-# learning_java
-full_record_of_my_java_experience.
